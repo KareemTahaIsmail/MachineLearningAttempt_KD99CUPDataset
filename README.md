@@ -1,5 +1,5 @@
 # MachineLearningAttempt_KD99CUPDataset
-I tested a few algorithms with the use of the KD99 Cup Dataset, not all of it though. Too big.
+I tested a few algorithms with the use of the KD99 Cup Dataset. Not all of it though, it's huge.
 
 Algorithms Invloved were:
 
